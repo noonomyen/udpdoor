@@ -6,5 +6,3 @@ UDP Door
 User --> UDPDoor --> Server
 ```
 
-## ค่าขนม
-BTC : 3DVVNyrDkf8Q3bJ9Gam3GYKmrqMZevavvQ
